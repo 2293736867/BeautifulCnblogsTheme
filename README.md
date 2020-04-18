@@ -29,7 +29,7 @@
 
 原主题文档[戳这里](https://bndong.github.io/Cnblogs-Theme-SimpleMemory/v1.1/#/).
 
-详细指南请配合博客使用.
+详细指南请配合[这篇博客](https://www.cnblogs.com/6b7b5fc3/p/12729633.html)使用.
 
 这里简单说一下几项配置(源码有不少注释,看注释基本可以正常食用):
 
